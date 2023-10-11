@@ -31,12 +31,9 @@ h3{
 }
 
 img {
-  margin:auto;
+  margin: auto;
   width: 50%;
-  height:auto;
-  border : 2px solid black;
-  padding: 10px;
-  background-color: rgb(178, 244, 244);
+  height: auto;
   display: block;
 }
 
@@ -49,4 +46,19 @@ img {
   font-family: Georgia;
   font-weight: 100;
   font-weight: lighter;
+}
+
+.box1 {
+  width: 50%;
+  border: solid black;
+  border-width: 1px;
+  background-color:  rgb(189, 236, 189);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  
+}
+
+p2 {
+  text-align: center;
 }
